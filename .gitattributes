@@ -1,0 +1,6 @@
+dataAfterPreparation/new_interaction.csv filter=lfs diff=lfs merge=lfs -text
+dataAfterPreparation/new_recipe.csv filter=lfs diff=lfs merge=lfs -text
+MealRec/meal.csv filter=lfs diff=lfs merge=lfs -text
+MealRec/user_meal.csv filter=lfs diff=lfs merge=lfs -text
+MealRec/user_recipe.csv filter=lfs diff=lfs merge=lfs -text
+MealRec/recipe.csv filter=lfs diff=lfs merge=lfs -text
